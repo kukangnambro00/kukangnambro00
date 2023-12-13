@@ -26,6 +26,6 @@ The Coding Chef welcomes all chefs from around the world to contribute their own
 
 ## Contact
 
-If you have any questions, comments, or suggestions, feel free to open an issue or submit a pull request. You can also reach out to the Coding Chef at codingchef@example.com.
+If you have any questions, comments, or suggestions, feel free to open an issue or submit a pull request. You can also reach out to the Coding Chef at kukangnambro@gmail.com.
 
 Happy cooking and coding!
